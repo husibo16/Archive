@@ -1,0 +1,4 @@
+# 本地部署产生的文件，不要提交
+Docker/.env
+Docker/logs/
+install/install.lock

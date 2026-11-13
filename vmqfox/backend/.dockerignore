@@ -1,0 +1,5 @@
+.git
+.env
+compose.env
+runtime
+docker-compose.yml
